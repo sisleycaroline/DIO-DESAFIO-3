@@ -44,13 +44,13 @@ Tons: # # # # <br>
 
 Estética: Oculta planilhas que servem como base de assets. <br>
 
-B- Bases <br>
+2. Bases <br>
 
 Nossos dados, nossa base pro dashboard ser realizado. <br>
 
 Selecionar todo o conjunto de dados e criar uma tabela dinâmica. <br>
 
-C- Cálculos  <br>
+3. Cálculos  <br>
 
 Onde processamos os dados. <br>
 Perguntas de negócio respondidas através de análise de dados. <br>
@@ -61,11 +61,11 @@ Quais são minhas perguntas de negócio?<br>
   - Qual faturamento toal de vendas de planos anuais, separado por auto renovação e não é por auto renovação <br>
   - Total de vendas de assinaturas do EA Play <br>
 
-D- Dashboard <br>
+4.  Dashboard <br>
 
 Onde visualizamos o resultado do processamento dos dados <br>
 
-E - Extras <br>
+5.  Extras <br>
 
 4º Passo: <br>
 
