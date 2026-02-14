@@ -82,7 +82,15 @@ Definir quais informações aparecerão no dashboard <br>
 Montar Layout da Tabela no Excel<br>
 - Tentei fazer com que meu layout lembrasse a página de um site e que as cores fossem semelhantes a cor da logo do xbox <br>
   - Cores utilizadas:
-- 
+#107C10  (verde principal)
+#2E9B2E  (verde médio)
+#6BCF6B  (verde claro)
+#DFF3DF  (verde muito claro)
+#000000  (preto)
+#1F1F1F  (preto suave)
+#FFFFFF  (branco)
+#F2F2F2  (cinza claro)
+
 - 
 
 Aplicar fórmulas e ferramentas. Testar seus resultados<br>
