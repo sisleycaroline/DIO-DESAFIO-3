@@ -40,7 +40,7 @@ Imagens: Logos do Xbox <br>
 Vídeos: N/A <br>
 Gifs: N/A <br>
 Cores: como se trata do Xbox, paleta de tons em verde. <br>
-Tons: # # # # <br>
+Tons: #107C10  (verde principal), #2E9B2E  (verde médio), #FFFFFF  (branco), #A6A6A6  (cinza) <br>
 
 Estética: Oculta planilhas que servem como base de assets. <br>
 
@@ -66,6 +66,7 @@ Quais são minhas perguntas de negócio?<br>
 Onde visualizamos o resultado do processamento dos dados <br>
 
 5.  Extras <br>
+Não foi necessário o uso dessa planilha. <br>
 
 4º Passo: <br>
 
@@ -74,24 +75,19 @@ Definir quais informações aparecerão no dashboard <br>
 - Logo xbox <br>
 - Logo EA play <br>
 - Logo Minecraft <br>
-- Gráficos e big numbers que respondam a pergunta de negócio <br>
-- Botões interativos para que o usuário possa clicar e ver a informação que deseja.
+- Gráficos e big numbers que respondam as perguntas de negócio <br>
+- Segmentação de Dados (filtro visual e interativo que se conecta a Tabela Dinâmica e permite filtrar os dados com cliques)
 
 
 5º Passo:<br>
 Montar Layout da Tabela no Excel<br>
-- Tentei fazer com que meu layout lembrasse a página de um site e que as cores fossem semelhantes a cor da logo do xbox <br>
-  - Cores utilizadas:
-#107C10  (verde principal)
-#2E9B2E  (verde médio)
-#6BCF6B  (verde claro)
-#DFF3DF  (verde muito claro)
-#000000  (preto)
-#1F1F1F  (preto suave)
-#FFFFFF  (branco)
-#F2F2F2  (cinza claro)
+- Tentei fazer com que meu layout lembrasse a página de um site e que as cores fossem semelhantes a cor da logo do xbox. Inclui as logos do Xbox, EA Play e Minecraft. Utilizei de formas retangulares para ilustrar os big numbers. <br>
+- Na planilha de Cálculos, gerei três tabelas dinâmicas para obter as seguintes informações: ,
+- Conexões de Relatório na aba "Segmentação": deixei selecionada as 3 tabelas geradas
+- Gerei um gráfico dinâmico e copiei para a Planilha Dashboard. Eliminei o excesso de informações, fazendo uma “limpeza” visual e deixando apenas o necessário. <br>
 
-- 
+
+
 
 Aplicar fórmulas e ferramentas. Testar seus resultados<br>
 Unanimidade visual, ou seja, deixar sua ferramenta visualmente coerente e agradável (transmite confiança no trabalho).<br>
