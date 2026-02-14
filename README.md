@@ -9,14 +9,10 @@ Aplicar os conceitos de Excel no desenvolvimento de um Dashboard de Vendas do Xb
 
 1º Passo:
 
-Definir as perguntas de negócio <br>
-Por que isso está sendo feito? Resposta: Simular investimentos em fundos imobiliários. <br>
-Quais informações eu preciso para fazer essas simulações? Resposta: Taxa de Rendimento Mensal, Por quantos Anos/Meses, Quanto investir por mês, Tipos de FII existentes.<br>
-Quais informações terei como resultado dessas simulações? Resposta: Patrimônio acumulado no tempo estimado e Dividendos mensais.<br>
-Quais perfis possíveis para esse investidor? Resposta: Moderado, Agressivo<br>
-Além dessas informações, quais outras são necessárias para a ferramenta? Resposta: Salário, Sugestão de investimento (% com base no salário)<br>
-É necessário uma demonstração gráfica? Resposta: Sim <br>
-É necessário calcular Cenários? Resposta: Não é algo extremamente necessário, mas um detalhe a mais para que o usuário possa fazer projeções futuras de forma rápida e prática.<br>
+Definir as perguntas de negócio: <br>
+  - Qual faturamento Total de vendas de planos anuais, mensais e trimestrais, separado por auto renovação e não é por auto renovação <br>
+  - Qual faturamento Total de vendas de planos anuais, mensais e trimestrais para EA play <br>
+  - Qual faturamento Total de vendas de planos anuais, mensais e trimestrais para Minecraft <br>
 
 2º Passo:<br>
 
@@ -57,13 +53,13 @@ Perguntas de negócio respondidas através de análise de dados. <br>
 Uso de tabelas dinâmicas, gráficos dinâmicos e filtros visuais para facilitar. <br>
 
 Quais são minhas perguntas de negócio?<br>
-  - Qual faturamento Total de vendas de planos anuais (contendo todas as assinaturas agregadas? <br>
-  - Qual faturamento toal de vendas de planos anuais, separado por auto renovação e não é por auto renovação <br>
-  - Total de vendas de assinaturas do EA Play <br>
-
+  - Qual faturamento Total de vendas de planos anuais, mensais e trimestrais, separado por auto renovação e não é por auto renovação <br>
+  - Qual faturamento Total de vendas de planos anuais, mensais e trimestrais para EA play <br>
+  - Qual faturamento Total de vendas de planos anuais, mensais e trimestrais para Minecraft <br>
+  
 4.  Dashboard <br>
 
-Onde visualizamos o resultado do processamento dos dados <br>
+Onde visualizamos o resultado do processamento dos dados. <br>
 
 5.  Extras <br>
 Não foi necessário o uso dessa planilha. <br>
@@ -76,25 +72,21 @@ Definir quais informações aparecerão no dashboard <br>
 - Logo EA play <br>
 - Logo Minecraft <br>
 - Gráficos e big numbers que respondam as perguntas de negócio <br>
-- Segmentação de Dados (filtro visual e interativo que se conecta a Tabela Dinâmica e permite filtrar os dados com cliques)
-
+- Segmentação de Dados (filtro visual e interativo que se conecta a Tabela Dinâmica e permite filtrar os dados com cliques) <br>
 
 5º Passo:<br>
 Montar Layout da Tabela no Excel<br>
 - Tentei fazer com que meu layout lembrasse a página de um site e que as cores fossem semelhantes a cor da logo do xbox. Inclui as logos do Xbox, EA Play e Minecraft. Utilizei de formas retangulares para ilustrar os big numbers. <br>
-- Na planilha de Cálculos, gerei três tabelas dinâmicas para obter as seguintes informações: ,
-- Conexões de Relatório na aba "Segmentação": deixei selecionada as 3 tabelas geradas
+- Na planilha de Cálculos, gerei três tabelas dinâmicas para obter as respostas para minhas perguntas de negócio. https://github.com/sisleycaroline/DIO-DESAFIO-3/blob/main/images/CALCULOS.png <br>
+- Conexões de Relatório na aba "Segmentação": deixei selecionada as 3 tabelas geradas. <br>
 - Gerei um gráfico dinâmico e copiei para a Planilha Dashboard. Eliminei o excesso de informações, fazendo uma “limpeza” visual e deixando apenas o necessário. <br>
-
-
-
 
 Aplicar fórmulas e ferramentas. Testar seus resultados<br>
 Unanimidade visual, ou seja, deixar sua ferramenta visualmente coerente e agradável (transmite confiança no trabalho).<br>
 Foi utilizada a Tabela dinâmica para geração de gráficos e filtros. <br>
 
 6º Finalização <br>
-Aplicar ajustes finos para que a ferramenta fique 100%.
+Aplicar ajustes finos de formatação para que a ferramenta fique 100%. <br>
 
 ## 🤖 Ferramentas utilizadas
 - Github<br>
@@ -102,8 +94,8 @@ Aplicar ajustes finos para que a ferramenta fique 100%.
 - Chat GPT<br>
 
 ## 📚 Aprendizados
-Primeiramente: não conhecia muito sobre fundos de investimentos e através desse desse desafio pude conhecer e entender como funciona. Além disso, não tinha conhecimento sobre fundos imobiliários e seus tipos, já foi um incremento em meu conhecimento. Foi bem interessante explorar um pouco mais do Excel, ir além do básico e usar diferentes fórmulas e designs.<br>
+Nunca tinha utilizado tabela dinâmica antes. Foi uma ótima oportunidade de ver como é seu uso, para que serve cada quadrante e qual seu impacto no resultado final, montar gráficos dinâmicos e usar da segmentação de dados. Inicialmente me senti desafiada, revi as aulas 3 vezes aplicando o passo a passo e agora percebo que é muito mais simples e prático do que quando comecei a estudar. Foi ótimo ampliar meu conhecimento em ferramentas tão úteis! <br>
 
 ## Arquivos complementares
-
+https://github.com/sisleycaroline/DIO-DESAFIO-3/
 
